@@ -1,0 +1,4 @@
+
+bsquid:UselessImportCheck"9Remove this unused import 'io.netty.bootstrap.Bootstrap'.(¦ÄÏï8çÊ·ã®/
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¼şàÌÿÿÿÿÿ8Çüàã®/
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Â¶Ä“8Çüàã®/

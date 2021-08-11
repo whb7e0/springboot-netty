@@ -1,0 +1,16 @@
+
+xsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÒœŸ¯8œ˜Óã®/
+Ssquid:S2629"7Use the built-in formatting to construct this argument.(Ëº¼8œ˜Óã®/
+bsquid:S3457"AFormat specifiers should be used instead of string concatenation.(Î™ÎÀøÿÿÿÿ8œ˜Óã®/
+bsquid:S3457"AFormat specifiers should be used instead of string concatenation.(ç–Çôøÿÿÿÿ8œ˜Óã®/
+bsquid:S3457"AFormat specifiers should be used instead of string concatenation.(ÜŞƒÍøÿÿÿÿ8œ˜Óã®/
+Xsquid:S2629"7Use the built-in formatting to construct this argument.(ç–Çôøÿÿÿÿ8œ˜Óã®/
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ö–¨Û8º¸Ñã®/
+bsquid:S3457"AFormat specifiers should be used instead of string concatenation.(Í…Ü¨ÿÿÿÿÿ8ùÕğã®/
+]squid:S3457"AFormat specifiers should be used instead of string concatenation.(Ëº¼8œ˜Óã®/
+Jsquid:S1481".Remove this unused "eventType" local variable.(é©²¶8º¸Ñã®/
+Œ"squid:SwitchLastCaseIsDefaultCheck"YComplete cases by adding the missing enum constants or add a default case to this switch.(ö–¨Û8º¸Ñã®/
+}squid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÜŞƒÍøÿÿÿÿ8œ˜Óã®/
+Xsquid:S2629"7Use the built-in formatting to construct this argument.(Í…Ü¨ÿÿÿÿÿ8ùÕğã®/
+]squid:S3457"AFormat specifiers should be used instead of string concatenation.(ÒœŸ¯8œ˜Óã®/
+}squid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Î™ÎÀøÿÿÿÿ8œ˜Óã®/

@@ -1,0 +1,38 @@
+server:
+  port: 7777
+  servlet:
+    context-path: /netty # 应用名 localhost:8090/server
+    multipart:
+        enable: true
+spring:
+  application:
+    name: netty
+  redis:
+    database: 0
+    host: 192.168.0.173
+    port: 6379
+    password: wlgs@168
+    jedis:
+      pool:
+        max-active: 8
+        max-idle: 8
+        min-idle: 0
+  datasource:
+      username: root
+      password: root
+      url: jdbc:mysql://192.168.0.166:3306/wlgs?characterEncoding=UTF-8&useSSL=false&allowMultiQueries=true&autoReconnect=true&serverTimezone=Asia/Shanghai
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      type: com.alibaba.druid.pool.DruidDataSource
+      initialSize: 8
+      minIdle: 5
+      maxActive: 20
+      maxWait: 60000
+      timeBetweenEvictionRunsMillis: 60000
+      minEvictableIdleTimeMillis: 300000
+      validationQuery: SELECT 1 FROM DUAL
+
+logging:
+  level:
+    com.wlgs.web.mapper: debug
+    com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver: WARN
+
